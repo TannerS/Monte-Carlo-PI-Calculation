@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\tanner summers\documents\github\monte carlo pi calculation\monte carlo pi calculation\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monte Carlo PI Calculation.vcxproj -> C:\Users\Tanner Summers\Documents\GitHub\Monte Carlo PI Calculation\x64\Debug\Monte Carlo PI Calculation.exe
